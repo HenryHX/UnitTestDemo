@@ -1,0 +1,15 @@
+*.opensdf
+*.sdf
+*.suo
+*.idb
+*.pdb
+*.log
+*.o
+*.bak
+*.sln
+/build/*
+/target
+/logs/*
+/.idea/*
+*.pyc
+/venv/*
